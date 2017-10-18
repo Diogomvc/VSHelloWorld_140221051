@@ -14,8 +14,7 @@ namespace VSHelloWorld_140221051
     {
         public static void Main(string[] args)
         {
-            // Comentário de teste
-            // Segundo comentário ESW
+            // Diogo Carvalho
             BuildWebHost(args).Run();
         }
 
